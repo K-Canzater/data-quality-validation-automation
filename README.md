@@ -22,15 +22,6 @@ This suite automates key smoke tests to ensure core functionality remains stable
 *   **Language:** Python
 *   **Browser:** Chromium
 
-## 📁 Project Structure
-├── tests/
-│   ├── test_login.py
-│   └── test_cart.py
-├── pages/
-│   ├── login_page.py
-│   └── product_page.py
-├── requirements.txt
-└── README.md
 
 ## ⚙️ Installation & Setup
 
