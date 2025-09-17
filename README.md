@@ -69,21 +69,6 @@ This suite automates key smoke tests to ensure core functionality remains stable
 
 ---
 
-## 📸 Example Output
-
-(You can add a short GIF or screenshot of the tests running here later if you want! It's a great visual touch.)
-
----
-
-## 🔮 Future Enhancements
-
--   Integrate with a CI/CD pipeline (e.g., GitHub Actions).
--   Add parallel execution for faster test runs.
--   Implement a Page Object Model (POM) for better maintainability.
--   Add more test cases for broader coverage.
-
----
-
 💡 Developed as part of my journey to transition into an Automation-focused QA role.
 
 
