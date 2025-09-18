@@ -60,6 +60,7 @@ This suite automates key smoke tests to ensure core functionality remains stable
 
 ---
 
-💡 Developed as part of my journey to transition into an Automation-focused QA role.
+ 
+💡 This project demonstrates my hands-on ability to design manual test cases and then translate them into reliable, automated scripts—bridging the gap between manual and automation testing.
 
 
