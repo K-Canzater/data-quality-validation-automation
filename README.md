@@ -4,7 +4,7 @@ A collection of automated UI tests built with Playwright to validate critical us
 
 ## 🚀 Overview
 
-This suite automates key smoke tests to ensure core functionality remains stable. Automating these repetitive manual checks allows for rapid feedback and frees up QA resources for more complex exploratory testing.
+This suite automates key smoke tests to ensure core functionality remains stable. Automating these repetitive manual checks allows for rapid feedback and frees up QA resources for more complex exploratory testing. The manual test cases that served as the foundation for this automation are included in this repository (manual_test_cases.xlsx).
 
 ## 📋 Test Cases Automated
 
